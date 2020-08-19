@@ -1,0 +1,5 @@
+br\com\mv\financeiro\model\Pessoa.class
+br\com\mv\financeiro\App.class
+br\com\mv\financeiro\schema\RelationalDataAccessApplication.class
+br\com\mv\financeiro\dao\PessoaDAO.class
+br\com\mv\financeiro\config\AppConfig.class
